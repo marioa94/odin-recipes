@@ -1,3 +1,36 @@
+body{
+    background-color: gray;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
 h1{
-    color:blue;
+    font-weight: 700;
+    font-size: 60px;
+    text-align:center;
+    color:cyan;
+}
+
+.katsu{
+
+    height:500px;
+    width:auto;
+}
+
+.k_text{
+    font-size: 18px;
+}
+h4{
+    font-weight: 700;
+    font-size: 30px;
+    color:white;
+}
+
+button{
+    font-size:larger;
+    color:black;
+    background-color:red;
+    font-weight:700;
+
 }
